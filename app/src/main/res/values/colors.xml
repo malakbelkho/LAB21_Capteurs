@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aura_bg_top">#FFF3F8</color>
+    <color name="aura_bg_bottom">#E9F4FF</color>
+
+    <color name="aura_primary">#FF7A8A</color>
+    <color name="aura_secondary">#7C83FD</color>
+    <color name="aura_accent">#00C2A8</color>
+
+    <color name="aura_card">#FFFFFF</color>
+    <color name="aura_text_dark">#273043</color>
+    <color name="aura_text_soft">#6E7483</color>
+    <color name="aura_stroke">#E4E8F0</color>
+</resources>
