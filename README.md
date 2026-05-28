@@ -88,6 +88,10 @@ Elle contient :
 - Démonstration sur émulateur Android
 - Démonstration sur téléphone réel
 
+https://github.com/user-attachments/assets/fc559c22-2fb3-4659-b987-7d6e497fea3b
+
+https://github.com/user-attachments/assets/73774d40-dd04-411c-844a-f42d2946c6cd
+
 ⚠️ En cas de problème de lecture depuis le repository :
 
 👉 [▶️ Voir les démos sur Google Drive](https://)
